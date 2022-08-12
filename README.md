@@ -8,6 +8,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/NaseeerBasha?tab=repositories](https://github.com/NaseeerBasha?tab=repositories)
 
 - 📫 How to reach me **nasheeerbasha.k@gmail.com**
+- 💬 Ask me about **Python,MySQL, Machine Learning, Deep Learning and Power BI**
+- ⚡  **😴 Fun Fact about me, I used to listen music during the time of coding!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
